@@ -11,4 +11,4 @@ Stack: Python Django Plotly GoogleOauth2 GoogleUrlShortnerAPI
 2. Render HTML from python django server
 
 
-![alt text](http://ec2-52-79-207-82.ap-northeast-2.compute.amazonaws.com:8000/urllist/)
+http://ec2-52-79-207-82.ap-northeast-2.compute.amazonaws.com:8000/urllist/
